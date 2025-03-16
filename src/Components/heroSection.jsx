@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="hero-section">
         <div className="hero-header">
           <div className="logo">
-            <img src="./src/Assets/logo.svg" alt="logo" />
+            <img src="/logo.svg" alt="logo" />
           </div>
           <div className="hero-nav">
             <ul className="hero-nav-links">
@@ -22,7 +22,7 @@ const HeroSection = () => {
             </ul>
           </div>
           <div className="cart">
-            <a href="#marketplace"><img src="./src/Assets/cart.svg" alt="cart" /></a>
+            <a href="#marketplace"><img src="/cart.svg" alt="cart" /></a>
           </div>
         </div>
 
@@ -44,7 +44,7 @@ const HeroSection = () => {
           </div>
 
           <div className="hero-img">
-            <img src="./src/Assets/hand-card.png" alt="hand-biz-card" />
+            <img src="/hand-card.png" alt="hand-biz-card" />
           </div>
        </div>
 

@@ -4,7 +4,7 @@ const ProductCards = () => {
   return (
     <div className="products-container">
       <div className="card">
-        <img src="./src/Assets/img1.png" alt="biz-card" />
+        <img src="/img1.png" alt="biz-card" />
         <h4>Two-sided Business Cards</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦15,100 <span>per 100</span></h4>
@@ -12,7 +12,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img2.png" alt="A5 Flyers" />
+        <img src="/img2.png" alt="A5 Flyers" />
         <h4>A5 Flyers (Single Sided) </h4>
         <p>STARTING AT</p>
         <h4 className="price">₦25,100 <span>per 100</span></h4>
@@ -20,7 +20,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img3.png" alt="round-stickers" />
+        <img src="/img3.png" alt="round-stickers" />
         <h4>Round Stickers (3.5" Diameter)</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦17,200 <span>per 100</span></h4>
@@ -28,7 +28,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img4.png" alt="simple-mugs" />
+        <img src="/img4.png" alt="simple-mugs" />
         <h4>Simple Mugs</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦4,300 <span>per 1</span></h4>
@@ -36,7 +36,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img5.jpg" alt="postcards" />
+        <img src="/img5.jpg" alt="postcards" />
         <h4>Postcards (A6)</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦22,300 <span>per 50</span></h4>
@@ -44,7 +44,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img6.png" alt="roll-up-banners" />
+        <img src="/img6.png" alt="roll-up-banners" />
         <h4>Roll-up Banners (Big Base)</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦60,500 <span>per 1</span></h4>
@@ -52,7 +52,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img7.png" alt="a2-posters" />
+        <img src="/img7.png" alt="a2-posters" />
         <h4>A2 Posters</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦71,400 <span>per 100</span></h4>
@@ -60,7 +60,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img8.png" alt="trifold-brochures" />
+        <img src="/img8.png" alt="trifold-brochures" />
         <h4>Trifold Brochures</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦47,500 <span>per 100</span></h4>
@@ -68,7 +68,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img9.png" alt="landscape-id" />
+        <img src="/img9.png" alt="landscape-id" />
         <h4>Landscape ID Cards</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦4,500 <span>per 1</span></h4>
@@ -76,7 +76,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img10.png" alt="off-white-tshirts" />
+        <img src="/img10.png" alt="off-white-tshirts" />
         <h4>Off-white T-shirts</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦6,500 <span>per 1</span></h4>
@@ -84,7 +84,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img11.png" alt="A4-branded-paperbags" />
+        <img src="/img11.png" alt="A4-branded-paperbags" />
         <h4>A4 Branded Paperbags</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦135,600 <span>per 100</span></h4>
@@ -92,7 +92,7 @@ const ProductCards = () => {
       </div>
 
       <div className="card">
-        <img src="./src/Assets/img12.png" alt="a4-courier-bags" />
+        <img src="/img12.png" alt="a4-courier-bags" />
         <h4>A4 Courier Bags</h4>
         <p>STARTING AT</p>
         <h4 className="price">₦27,600 <span>per 100</span></h4>
@@ -105,7 +105,7 @@ const ProductCards = () => {
 
       <div className="products-container box2">
         <div className="card">
-          <img src="./src/Assets/img13.png" alt="greeting-cards" />
+          <img src="/img13.png" alt="greeting-cards" />
           <h4>Greeting Cards</h4>
           <p>STARTING AT</p>
           <h4 className="price">₦29,600 <span>per 50</span></h4>
@@ -113,7 +113,7 @@ const ProductCards = () => {
         </div>
 
         <div className="card">
-          <img src="./src/Assets/img14.png" alt="stickers" />
+          <img src="/img14.png" alt="stickers" />
           <h4>Stickers</h4>
           <p>STARTING AT</p>
           <h4 className="price">₦5,600 <span>per 75</span></h4>

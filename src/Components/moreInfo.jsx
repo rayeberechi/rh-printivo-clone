@@ -10,7 +10,7 @@ const MoreInfo = () => {
         </div>
 
         <div className="brand-logo">
-          <img src="./src/Assets/brand10.png" alt="Brand 10" /> 
+          <img src="/brand10.png" alt="Brand 10" /> 
         </div>
       </section>
 
@@ -22,7 +22,7 @@ const MoreInfo = () => {
         <div className="testimonials-container">
           <div className="card">
             <div className="t-img">
-              <img src="./src/Assets/twitter.svg" alt="twitter-logo" />
+              <img src="/twitter.svg" alt="twitter-logo" />
             </div>
             <div className="t-txt">
               <h6>Amina Ebele <span><a href="#">@DeliciousAmina</a></span></h6>
@@ -32,7 +32,7 @@ const MoreInfo = () => {
 
           <div className="card">
             <div className="t-img">
-              <img src="./src/Assets/twitter.svg" alt="twitter-logo"/>
+              <img src="/twitter.svg" alt="twitter-logo"/>
             </div>
             <div className="t-txt">
               <h6>Chinwe Okafor <span><a href="#">@ChinweOkafor</a></span></h6>
@@ -42,7 +42,7 @@ const MoreInfo = () => {
             
           <div className="card">
             <div className="t-img">
-              <img src="./src/Assets/twitter.svg" alt="twitter-logo" />
+              <img src="/twitter.svg" alt="twitter-logo" />
             </div>
             <div className="t-txt">
               <h6>John Dalu <span><a href="#">@JohnDee</a></span></h6>
@@ -57,7 +57,7 @@ const MoreInfo = () => {
         <div className="pride-box">
           <div className="pride">
             <div className="pride-img">
-              <img src="./src/Assets/pride1.svg" alt="fast"/>
+              <img src="/pride1.svg" alt="fast"/>
             </div>
             <div className="p-txt">
               <h4>Fast Turnaround Within Days</h4>
@@ -67,7 +67,7 @@ const MoreInfo = () => {
 
           <div className="pride">
             <div className="pride-img">
-              <img src="./src/Assets/pride2.svg" alt="quality"/>
+              <img src="/pride2.svg" alt="quality"/>
             </div>
             <div className="p-txt" id='quality'>
               <h4>100% Quality Prints</h4>
@@ -77,7 +77,7 @@ const MoreInfo = () => {
 
           <div className="pride">
             <div className="pride-img">
-              <img src="./src/Assets/pride3.svg" alt="affordable"/>
+              <img src="/pride3.svg" alt="affordable"/>
             </div>
             <div className="p-txt">
               <h4>Affordable Services</h4>
@@ -92,23 +92,23 @@ const MoreInfo = () => {
 
         <div className="awarders">
           <div className="card">
-            <img src="./src/Assets/award1.svg" alt="awarder"/>
+            <img src="/award1.svg" alt="awarder"/>
           </div>
 
           <div className="card">
-            <img src="./src/Assets/award2.svg" alt="awarder"/>
+            <img src="/award2.svg" alt="awarder"/>
           </div>
 
           <div className="card">
-            <img src="./src/Assets/award3.png" alt="awarder"/>
+            <img src="/award3.png" alt="awarder"/>
           </div>
 
           <div className="card">
-            <img src="./src/Assets/award4.svg" alt="awarder"/>
+            <img src="/award4.svg" alt="awarder"/>
           </div>
 
           <div className="card">
-            <img src="./src/Assets/award5.svg" alt="awarder"/>
+            <img src="/award5.svg" alt="awarder"/>
           </div>
         </div>
       </section>

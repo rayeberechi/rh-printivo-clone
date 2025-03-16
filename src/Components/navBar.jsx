@@ -23,10 +23,10 @@ const navBar = () => {
                         </div>
                     </div>
                     <div className="w-logo">
-                        <img src=".\src\Assets\whatsapp-logo.svg" alt="whatsapp-logo" />
+                        <img src="\whatsapp-logo.svg" alt="whatsapp-logo" />
                     </div>
                     <div className="search-box">
-                        <img src="./src/Assets/Naija-flag.svg" alt="" />
+                        <img src="/Naija-flag.svg" alt="" />
                         <input type="text" placeholder="Nigeria" disabled />
                     </div>
                 </ul>

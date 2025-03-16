@@ -57,16 +57,16 @@ const Footer = () => {
   
               <div className="social-icons">
                 <a href="#">
-                    <img src="./src/Assets/fb-logo.svg" alt="fb-logo"/>
+                    <img src="/fb-logo.svg" alt="fb-logo"/>
                 </a>
                 <a href="#">
-                    <img src="./src/Assets/X-logo.svg" alt="x-logo"/>
+                    <img src="/X-logo.svg" alt="x-logo"/>
                 </a>
                 <a href="#">
-                    <img src="./src/Assets/linkedin-logo.svg" alt="linkedin-logo"/>
+                    <img src="/linkedin-logo.svg" alt="linkedin-logo"/>
                 </a>
                 <a href="#">
-                    <img src="./src/Assets/insta-logo.svg" alt="insta-logo"/>
+                    <img src="/insta-logo.svg" alt="insta-logo"/>
                 </a>
               </div>
             </div>
@@ -74,12 +74,12 @@ const Footer = () => {
             <div className="outsource">
               <div className="pay-opt" id='pay'>
                 <h4>Accepted Payments</h4>
-                <img src="./src/Assets/payOpt.png" alt="pay-opt"/>
+                <img src="/payOpt.png" alt="pay-opt"/>
               </div>
 
               <div className="delivery" id='delivery'>
                 <h4>Delivery</h4>
-                <img src="./src/Assets/shipping.png" alt="ship-opt"/>
+                <img src="/shipping.png" alt="ship-opt"/>
               </div>
             </div>
           </div>              

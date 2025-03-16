@@ -54,7 +54,7 @@ const ReSeller = () => {
                     <h6>Off</h6>
                 </div>
                 <div className="r-img">
-                    <img src="./src/Assets/affiliate.png" alt="Reseller Image" />
+                    <img src="/affiliate.png" alt="Reseller Image" />
                 </div>
               </div>
 
